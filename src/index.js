@@ -12,7 +12,7 @@ const precioConSimbolo = (price) => {
     
     return newPrice;
 }
-
+console.log('dev by puli')
 const appContainer = document.querySelector('#app')
 appContainer.style.display = "flex";
 appContainer.style.direction = "column";
